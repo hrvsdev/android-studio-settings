@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="hrvsdev" id="32d81dac-b274-4877-b361-aea9b42b0389">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

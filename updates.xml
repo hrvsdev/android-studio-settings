@@ -1,0 +1,13 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="platform-tools#34.0.4" />
+      <item value="system-images;android-34;google_apis;arm64-v8a#7" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-231.9392.1.2311.11330709" />
+    <option name="LAST_TIME_CHECKED" value="1709357736671" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="233" />
+  </component>
+</application>
