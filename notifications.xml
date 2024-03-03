@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Dismiss notifications about package.json" displayType="STICKY_BALLOON" />
   </component>
