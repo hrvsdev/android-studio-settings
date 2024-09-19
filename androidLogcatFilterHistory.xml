@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine expiry" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine expiry" />
         <option value="package:mine filtered" />
-        <option value="package:mine " />
         <option value="package:com.hrvs.cardnest" />
         <option value="filtered" />
         <option value="package:com.hrvs.cardnest filtered" />
