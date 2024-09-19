@@ -12,6 +12,7 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="references" />
@@ -23,18 +24,6 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
-    <option name="disabledOptions">
-      <set>
-        <option value="js.type.hints#function.returns" />
-        <option value="js.type.hints#non.paren.single.param" />
-        <option value="js.type.hints#parameters.in.parens" />
-        <option value="js.type.hints#variables.and.fields" />
-        <option value="ts.type.hints#function.returns" />
-        <option value="ts.type.hints#non.paren.single.param" />
-        <option value="ts.type.hints#parameters.in.parens" />
-        <option value="ts.type.hints#variables.and.fields" />
-      </set>
-    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="java.implicit.types" value="false" />
@@ -55,9 +44,13 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="STICKY_LINES_LIMIT" value="2" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="kotlin.spring.secured.urls.inlay.hints" />
+  </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
