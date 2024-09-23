@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine proposed" />
+    <option name="mostRecentlyUsed" value="package:mine IconButton" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine IconButton" />
         <option value="package:mine proposed" />
         <option value="package:mine " />
         <option value="package:mine expiry" />
