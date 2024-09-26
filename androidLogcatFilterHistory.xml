@@ -1,0 +1,17 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine IconButton" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine IconButton" />
+        <option value="package:mine proposed" />
+        <option value="package:mine " />
+        <option value="package:mine expiry" />
+        <option value="package:mine filtered" />
+        <option value="package:com.hrvs.cardnest" />
+        <option value="filtered" />
+        <option value="package:com.hrvs.cardnest filtered" />
+      </list>
+    </option>
+  </component>
+</application>
