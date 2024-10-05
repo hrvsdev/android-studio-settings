@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine navigator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine navigator" />
         <option value="package:mine " />
         <option value="package:mine icon" />
         <option value="package:mine IconButton" />
