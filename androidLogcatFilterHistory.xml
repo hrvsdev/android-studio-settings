@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.hrvs.cardnest screen" />
+    <option name="mostRecentlyUsed" value="package:com.hrvs.cardnest Text" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.hrvs.cardnest Text" />
+        <option value="package:com.hrvs.cardnest Cards" />
         <option value="package:com.hrvs.cardnest screen" />
         <option value="package:com.hrvs.cardnest " />
         <option value="package:com.hrvs.cardnest navigator" />
