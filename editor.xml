@@ -21,12 +21,18 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="enabledOptions">
+      <map>
+        <entry key="kotlin.lambdas.hints#hints.lambda.receivers.parameters" value="true" />
+      </map>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="java.implicit.types" value="false" />
         <entry key="java.method.chains" value="true" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="false" />
+        <entry key="kotlin.lambdas.hints" value="true" />
         <entry key="lsp.inlay.Parameter.Swift" value="true" />
         <entry key="lsp.inlay.Type.Swift" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
