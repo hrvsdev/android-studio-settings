@@ -33,6 +33,7 @@
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="false" />
         <entry key="kotlin.lambdas.hints" value="true" />
+        <entry key="kotlin.parameters.hints" value="true" />
         <entry key="lsp.inlay.Parameter.Swift" value="true" />
         <entry key="lsp.inlay.Type.Swift" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
