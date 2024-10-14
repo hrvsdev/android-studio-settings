@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.hrvs.cardnest " />
+    <option name="mostRecentlyUsed" value="package:com.hrvs.cardnest viewM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.hrvs.cardnest viewM" />
+        <option value="package:com.hrvs.cardnest" />
         <option value="package:com.hrvs.cardnest " />
         <option value="package:com.hrvs.cardnest random" />
-        <option value="package:com.hrvs.cardnest" />
         <option value="package:mine des" />
         <option value="package:com.hrvs.cardnest des" />
         <option value="package:com.hrvs.cardnest current" />
@@ -22,7 +23,6 @@
         <option value="package:mine expiry" />
         <option value="package:mine filtered" />
         <option value="filtered" />
-        <option value="package:com.hrvs.cardnest filtered" />
       </list>
     </option>
   </component>
