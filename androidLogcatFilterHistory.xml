@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine ViewModel" />
         <option value="package:mine adding card" />
         <option value="package:mine card" />
         <option value="package:app.cardnest" />
         <option value="package:app.cardnest view" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine adding" />
         <option value="package:mine view" />
