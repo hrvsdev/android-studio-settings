@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.cardnest pin" />
+    <option name="mostRecentlyUsed" value="package:app.cardnest " />
     <option name="nonFavorites">
       <list>
+        <option value="package:app.cardnest " />
         <option value="package:app.cardnest pin" />
         <option value="package:app.cardnest" />
         <option value="package:mine " />
         <option value="package:app.cardnest Nav" />
         <option value="package:mine tabbar" />
-        <option value="package:app.cardnest " />
         <option value="package:app.cardnest selected" />
         <option value="package:app.cardnest ViewModel" />
         <option value="package:mine ViewModel" />
