@@ -50,7 +50,7 @@
         <entry key="js.type.hints" value="false" />
         <entry key="kotlin.lambdas.hints" value="true" />
         <entry key="kotlin.method.chains" value="true" />
-        <entry key="kotlin.parameters.hints" value="true" />
+        <entry key="kotlin.parameters.hints" value="false" />
         <entry key="kotlin.references.types.hints" value="false" />
         <entry key="kotlin.values.hints" value="true" />
         <entry key="lsp.inlay.Parameter.Swift" value="true" />
