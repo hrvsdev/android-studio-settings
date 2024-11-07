@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.cardnest init" />
+    <option name="mostRecentlyUsed" value="package:app.cardnest realtime" />
     <option name="nonFavorites">
       <list>
+        <option value="package:app.cardnest realtime" />
         <option value="package:app.cardnest init" />
         <option value="package:app.cardnest" />
         <option value="package:app.cardnest fire" />
@@ -22,7 +23,6 @@
         <option value="package:mine card" />
         <option value="package:app.cardnest view" />
         <option value="package:mine" />
-        <option value="package:mine adding" />
       </list>
     </option>
   </component>
