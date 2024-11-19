@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.cardnest User:" />
+    <option name="mostRecentlyUsed" value="package:app.cardnest" />
     <option name="nonFavorites">
       <list>
-        <option value="package:app.cardnest User:" />
+        <option value="package:mine " />
         <option value="package:app.cardnest" />
+        <option value="package:app.cardnest authdata" />
+        <option value="package:app.cardnest User:" />
         <option value="package:app.cardnest user" />
         <option value="package:app.cardnest user state" />
         <option value="package:app.cardnest " />
@@ -13,7 +15,6 @@
         <option value="package:app.cardnest realtime" />
         <option value="package:app.cardnest init" />
         <option value="package:app.cardnest fire" />
-        <option value="package:mine " />
         <option value="package:mine skipped" />
         <option value="package:app.cardnest UiState" />
         <option value="package:app.cardnest state" />
@@ -22,7 +23,6 @@
         <option value="package:app.cardnest Nav" />
         <option value="package:mine tabbar" />
         <option value="package:app.cardnest selected" />
-        <option value="package:app.cardnest ViewModel" />
       </list>
     </option>
   </component>
