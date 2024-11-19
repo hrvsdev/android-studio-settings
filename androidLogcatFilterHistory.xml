@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:app.cardnest" />
+        <option value="package:app.cardnest user" />
         <option value="package:app.cardnest user state" />
         <option value="package:app.cardnest " />
-        <option value="package:app.cardnest user" />
         <option value="package:mine" />
         <option value="package:mine collected" />
         <option value="package:app.cardnest realtime" />
