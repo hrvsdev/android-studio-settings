@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <ComposeCustomCodeStyleSettings>
+    <option name="USE_CUSTOM_FORMATTING_FOR_MODIFIERS" value="false" />
+  </ComposeCustomCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
   </JSCodeStyleSettings>
