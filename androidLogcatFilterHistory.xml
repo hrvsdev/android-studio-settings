@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.cardnest carddata" />
+    <option name="mostRecentlyUsed" value="package:mine authmanager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine authmanager" />
+        <option value="package:mine " />
+        <option value="package:app.cardnest AuthManager" />
         <option value="package:app.cardnest carddata" />
         <option value="package:app.cardnest carddatamana" />
         <option value="package:app.cardnest " />
@@ -10,7 +13,6 @@
         <option value="package:app.cardnest lasteve" />
         <option value="package:app.cardnest" />
         <option value="package:app.cardnest user" />
-        <option value="package:mine " />
         <option value="package:app.cardnest passwordin" />
         <option value="package:app.cardnest authdata" />
         <option value="package:app.cardnest User:" />
@@ -21,8 +23,6 @@
         <option value="package:app.cardnest init" />
         <option value="package:app.cardnest fire" />
         <option value="package:mine skipped" />
-        <option value="package:app.cardnest UiState" />
-        <option value="package:app.cardnest state" />
       </list>
     </option>
   </component>
