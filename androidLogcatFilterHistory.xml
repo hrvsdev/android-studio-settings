@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine appview" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine appview" />
+        <option value="package:mine" />
+        <option value="package:mine data" />
         <option value="package:mine " />
       </list>
     </option>
