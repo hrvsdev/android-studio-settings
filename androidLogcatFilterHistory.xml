@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:app.cardnest " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:app.cardnest " />
+        <option value="package:mine user" />
+        <option value="package:app.cardnest.debug userman" />
+        <option value="package:mine usermana" />
+        <option value="package:mine " />
         <option value="package:app.cardnes" />
         <option value="package:app.cardnest" />
         <option value="package:mine userm" />
